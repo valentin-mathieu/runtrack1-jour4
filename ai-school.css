@@ -1,0 +1,151 @@
+/* HEADER */
+
+.headerbox {
+    display: flex;
+    background-color:white;
+    justify-content: space-between; 
+    flex-direction: row;
+    text-decoration: none;
+    margin-bottom: -6px;
+  }
+
+  .lien {
+      text-align: center;
+      font-family: 'roboto mono';
+      font-weight: 300px;
+      color: silver;
+      font-size: 25px;
+      text-decoration: none; 
+  }
+
+  #headerboxes {
+      margin-top: 17px;
+      margin-right: 30px;
+  }
+
+
+
+
+/* VALENTIN DEBUT */
+
+body {
+    background-color: #275fa0 ;
+}
+
+article {
+        background-color: #275fa0;
+}
+
+#ai_titre1 {
+    font-family: 'roboto slab';
+    font-weight: 700px;
+    font-size: 42px;
+    color: white;
+    margin-top: 20px;
+    text-shadow: whitesmoke 1px 2px 5px;
+}
+
+#ai_titre2 {
+
+    font-family: 'roboto';
+    font-weight: 500px;
+    font-size: 18px;
+    color: grey;
+    background-color: white;
+    border-radius: 50px;
+}
+
+#ai_p1 {
+    font-family: 'roboto';
+    font-weight: 500px;
+    font-size: 16px;
+    color: #d4ccff;
+}
+
+#ai_p2 {
+    font-family: 'roboto';
+    font-weight: 500px;
+    font-size: 16px;
+    color: #d4ccff;
+}
+
+#ai_p3 {
+    font-family: 'roboto';
+    font-weight: 500px;
+    font-size: 16px;
+    color: #d4ccff;
+}
+
+.ai_section1 {
+    box-sizing: content-box;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#ai_boutonfin {
+    background-color: #ffca4b;
+    color: white;
+    border-style: solid;
+    font-family: 'roboto';
+    display: inline-block;
+    padding: 10px 5px 10px 5px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-radius: 50px;
+}
+
+.ai_container {
+    display: flex;
+    background-color:#275fa0;
+    justify-content: space-between; 
+  }
+  
+  .ai_colonne {
+    background-color: white;
+    width: 1200px;
+    margin: 30px 30px 30px 30px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 16px;
+    border-style: dotted;
+  }
+
+  #ai_ampoule {
+    margin-top: 50px;
+    margin-bottom: -20px;
+  }
+
+  #ai_titre3 {
+    font-family: 'roboto mono';
+    font-weight: 700px;
+    font-size: 16px;
+  }
+
+  #ai_paracolonne {
+      font-family: 'roboto';
+      font-style: normal;
+      color: #8585bd;
+  }
+
+  #ai_titre4 {
+    font-family: 'roboto mono';
+    font-weight: 700px;
+    font-size: 16px;
+  }
+
+  #ai_titre5 {
+    font-family: 'roboto mono';
+    font-weight: 700px;
+    font-size: 16px;
+  }
+
+  #ai_phrasedefin {
+    color: white;
+    font-family: 'roboto';  
+  }
+
+/* VALENTIN FIN */
+  
+   
+   
